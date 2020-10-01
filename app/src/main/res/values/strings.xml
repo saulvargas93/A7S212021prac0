@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A7S212021prac0</string>
+    <string name="titulo">PROGRAMANDO MI  APP ANDROID</string>
+    <string name="ING.nombre">Ingresa tu nombre</string>
+    <string name="key">Escribe tu contraseña</string>
+    <string name="btn">oprime el boton</string>
+</resources>
